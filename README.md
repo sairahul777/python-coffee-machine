@@ -30,7 +30,6 @@ A simple console-based Coffee Machine program written in Python that simulates o
 1. Make sure you have Python 3 installed.
 2. Copy the code into a file named `coffee_machine.py`
 3. Run the script:
-4. 
 python coffee_machine.py
 
 ---
