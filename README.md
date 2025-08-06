@@ -34,9 +34,9 @@ A simple console-based Coffee Machine program written in Python that simulates o
 python coffee_machine.py
 
 ---
-<pre>
 
 ## 📄 Resources and price
+<pre>
   
 | Drink      | Water (ml) | Coffee (g) | Milk (ml) | Price (\$) |
 | ---------- | ---------- | ---------- | --------- | ---------- |
