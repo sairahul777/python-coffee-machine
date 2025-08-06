@@ -89,7 +89,7 @@ What would you like? (espresso/latte/cappuccino): stop
 
 ---
 
-##📋 Future Improvements
+## 📋 Future Improvements
 
 - Add GUI using tkinter
 
